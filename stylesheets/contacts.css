@@ -1,0 +1,9 @@
+.allContent, .form-group{
+    margin: 3%;
+    background-color: lightblue;
+}
+
+.allContent{
+ border: solid;
+ border-color: black;   
+}
