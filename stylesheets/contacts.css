@@ -7,3 +7,12 @@
  border: solid;
  border-color: black;   
 }
+
+#contactInfo{
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.heading{
+    padding-top: 2%;
+}
