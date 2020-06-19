@@ -1,6 +1,6 @@
 .all-content{
   margin: 3%;
-  background-color: lightblue;
+  background-color: hsla(195, 53%, 79%, 0.898);
   border: solid;
   border-color: black;
 }
@@ -10,6 +10,18 @@
 }
 
 .projects{
-  background-color: lightblue;
+  background-color: hsla(195, 53%, 79%, 0.898);
   border: none;
+}
+
+.projectLinks{
+  background-color: hsla(195, 53%, 79%, 0.898);
+}
+
+.card-body{
+  background-color: hsla(195, 53%, 79%, 0.898);
+}
+
+body{
+  background-image: url(https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg);
 }

@@ -1,6 +1,6 @@
 .allContent, .form-group{
     margin: 3%;
-    background-color: lightblue;
+    background-color: hsla(195, 53%, 79%, 0.898);
 }
 
 .allContent{
@@ -16,3 +16,7 @@
 .heading{
     padding-top: 2%;
 }
+
+body{
+    background-image: url(https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg);
+  }
