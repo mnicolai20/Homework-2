@@ -1,12 +1,19 @@
-# Homework-2
-Created 3 html documents. Index, Portfolio, Contacts.
+# Portfolio
 
-Set up each html with a bootstrap starter template.
+## About
 
-Linked an additional personal css file to each html, for minor touchups.
+* This is a personal portfolio, which contains a breif description of myself, in terms of my techinical skills and breif history of my education. This is all done in the "About" page.
 
-Linked each page to each other via the navBar.
+## Portfolio
 
-Used the row and colom layout with "sm" tags to allow for proper conversion between device sizes.
+* This page displays group projects and homeworks I worked on during my certificate program at University of Pennsylvania.
 
-Used a bootstrap contact form for the layout of the contacts page. used personal css page to make minor adjustments.
+![Goal-Getter](./pics/goalGetter.PNG)
+
+* Each item displayed on the page contains a link to the actual application.
+
+## Contact
+
+* This page simply contains links to my personal email, resume, LinkedIn, and Github.
+
+![contact-links](./pics/contact.PNG)
